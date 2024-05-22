@@ -1,0 +1,3 @@
+/home/ubuntu/Desktop/svside/CMakeFiles/server.dir
+/home/ubuntu/Desktop/svside/CMakeFiles/edit_cache.dir
+/home/ubuntu/Desktop/svside/CMakeFiles/rebuild_cache.dir
